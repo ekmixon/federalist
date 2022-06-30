@@ -39,7 +39,7 @@
     "newrelic": "^7.0",
     "node-schedule": "^2.0.0",
     "nunjucks": "^3.2.2",
-    "passport": "^0.4.0",
+    "passport": "^0.6.0",
     "passport-github": "^1.0.0",
     "passport-oauth2": "^1.5.0",
     "pg": "^8.5.1",
