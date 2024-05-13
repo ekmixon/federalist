@@ -51,7 +51,7 @@
     "socket.io-client": "^4.1.2",
     "underscore": "^1.12.1",
     "urlsafe-base64": "^1.0.0",
-    "uswds": "^1.4.4",
+    "uswds": "^2.12.2",
     "validator": "^13.5.2",
     "whatwg-fetch": "^3.4.1",
     "winston": "^3.3.3",
@@ -163,7 +163,7 @@
     "webpack": "^5.37.1",
     "webpack-cli": "^4.7.0",
     "webpack-dev-middleware": "^4.0.2",
-    "webpack-dev-server": "^3.11.2",
+    "webpack-dev-server": "^4.0.0",
     "webpack-manifest-plugin": "^3.0.0"
   },
   "engines": {
