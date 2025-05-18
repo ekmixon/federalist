@@ -158,7 +158,7 @@
     "shortid": "^2.2.16",
     "sinon": "^10.0.0",
     "style-loader": "^2.0.0",
-    "supertest": "^6.0.0",
+    "supertest": "^7.1.1",
     "watch": "^1.0.2",
     "webpack": "^5.37.1",
     "webpack-cli": "^4.7.0",
